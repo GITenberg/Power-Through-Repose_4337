@@ -1,0 +1,33 @@
+_repo: Power-Through-Repose_4337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Call, Annie Payson
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '1451'
+    url: http://www.gutenberg.org/2009/agents/1451
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nervous system'
+- !lcsh 'Rest'
+- !lcsh 'Mental health'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: The guidance of the body -- Perversions in the guidance of the body
+  -- Rest in sleep -- Other forms of rest -- The use of the brain -- The brain in
+  its direction of the body -- The direction of the body in locomotion -- Nervous
+  strain in pain and sickness -- Nervous strain in the emotions -- Nature's teaching
+  -- The child as an ideal -- Training for rest -- Training for motion -- Mind training
+  -- Artistic considerations -- Tests -- The rational care of self -- Our relations
+  with others -- The use of the will -- Summing up.
+title: Power Through Repose
+url: http://www.gutenberg.org/ebooks/4337
